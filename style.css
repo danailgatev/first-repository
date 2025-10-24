@@ -5,8 +5,6 @@ body {
     text-align: center;
     padding: 50px;
 
-    <button class="my-button">Menu</button>
-
     <style>
     .my-button {
       background-color: #4CAF50; /* зелен фон */
@@ -24,4 +22,5 @@ body {
     }
     </style>
 }
+
 
